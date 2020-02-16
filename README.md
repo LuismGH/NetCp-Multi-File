@@ -1,5 +1,4 @@
-# NetCp Multi-File
-.
+# Talk with File Submission
 
 ## Compilation
 
@@ -7,22 +6,21 @@ To compile the program, execute `make` command.
 
 	$ make
 
-
 ## Usage
 
 Execute, along with their corresponding options:
 
-	$ ./NetCp
+	$ ./Talk
 
 ## Help
 
 For more knowledge about program's functions, execute:
 
-	$ ./NetCp --help
+	$ ./Talk --help
 
 or
 
-	$ ./NetCp -h
+	$ ./Talk -h
 
 ## Cleaning
 
@@ -32,4 +30,4 @@ Execute `make clean` for executables and objects cleaning:
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/LuismGH/NetCp-Multi-File.
+Bug reports and pull requests are welcome on GitHub at https://github.com/LuismGH/Talk.
